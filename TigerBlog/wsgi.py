@@ -1,5 +1,5 @@
 """
-WSGI config for TigerBlog project.
+WSGI c for TigerBlog project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
