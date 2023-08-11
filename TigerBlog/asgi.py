@@ -1,5 +1,5 @@
 """
-ASGI config for TigerBlog project.
+ASGI c for TigerBlog project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
